@@ -1,0 +1,25 @@
+body{
+    background-image: url("../images/cinema.jpg");   
+    background-size: cover;
+    color: white;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1{
+    color: white;
+}
+
+.realisateur{
+    list-style :none;
+    color: yellowgreen;
+    font-size: 25px;
+}
+.film{
+    list-style-type: upper-latin;
+    color: white;
+    font-size: 20px;
+}
+.acteur{
+    list-style-type: disc;
+    font-size: 20px;
+}
